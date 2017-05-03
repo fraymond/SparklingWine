@@ -1,2 +1,2 @@
 # SparklingWine
-A fork of Apache Spark.
+A few tools built using Apache Spark.
